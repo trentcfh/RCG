@@ -1,0 +1,2 @@
+# RCG
+Random quote gen.
